@@ -1,0 +1,14 @@
+name: ims-reader
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook
+  - numpy
+  - scikit-image
+  - matplotlib
+  - ipympl
+  - h5py
+  - scikit-learn
+  - pandas
+  - zarr
